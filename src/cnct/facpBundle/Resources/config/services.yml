@@ -1,0 +1,7 @@
+parameters:
+#    cnctfacp.example.class: cnct\facpBundle\Example
+
+services:
+#    cnctfacp.example:
+#        class: %cnctfacp.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
